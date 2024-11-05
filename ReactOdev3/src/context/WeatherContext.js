@@ -26,7 +26,7 @@ export const WeatherProvider = ({ children }) => {
     const [error, setError] = useState(null);
 
     // OpenWeather API'den veri çekme fonksiyonu
-    const API_KEY = 'a639c5cdd1739cf7840d2d01abcc2e54'; // OpenWeather API key
+    const API_KEY = ''; // OpenWeather API key
     const BASE_URL = 'https://api.openweathermap.org/data/2.5';
 
     // Hava durumu verilerini çeken fonksiyon
