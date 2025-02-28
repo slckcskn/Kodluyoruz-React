@@ -1,1 +1,1 @@
-
+# React Ödevlerinin bulunduğu repo.
